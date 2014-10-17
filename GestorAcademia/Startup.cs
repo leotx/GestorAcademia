@@ -1,5 +1,5 @@
 using Owin;
-
+using Nancy;
 
 namespace GestorAcademia
 {
@@ -7,14 +7,7 @@ namespace GestorAcademia
 	{
 		public void Configuration(IAppBuilder app)
 		{
-			app.Use((ctx, next) => {
-				ctx.TraceOutput.WriteLine(ctx.Request.RemoteIpAddress);
-
-				ctx.Response.Write("OK!!!!!!!!!!");
-
-				return next.Invoke();
-			});
+			app.UseNancy ();
 		}
 	}
-
 }

@@ -6,3 +6,11 @@
 /home/leonardo/projects/GestorAcademia/GestorAcademia/bin/Release/MongoDB.Bson.dll
 /home/leonardo/projects/GestorAcademia/GestorAcademia/bin/Release/MongoDB.Driver.dll
 /home/leonardo/projects/GestorAcademia/GestorAcademia/bin/Release/Newtonsoft.Json.dll
+/home/leonardo/projects/GestorAcademia/GestorAcademia/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/leonardo/projects/GestorAcademia/GestorAcademia/bin/Release/Owin.dll
+/home/leonardo/projects/GestorAcademia/GestorAcademia/bin/Release/Microsoft.Owin.dll
+/home/leonardo/projects/GestorAcademia/GestorAcademia/bin/Release/Microsoft.Owin.Diagnostics.dll
+/home/leonardo/projects/GestorAcademia/GestorAcademia/bin/Release/Microsoft.Owin.Hosting.dll
+/home/leonardo/projects/GestorAcademia/GestorAcademia/bin/Release/Microsoft.Owin.Host.HttpListener.dll
+/home/leonardo/projects/GestorAcademia/GestorAcademia/bin/Release/Nancy.dll
+/home/leonardo/projects/GestorAcademia/GestorAcademia/bin/Release/Nancy.Owin.dll

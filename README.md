@@ -1,6 +1,6 @@
 Gerenciador de Treinos de academia (API REST):
 
-Projeto com Owin/Katana Self-host, Nancy Fx, e <NoSQL> (e API do NoSQL)
+Projeto com Owin/Katana Self-host, Nancy Fx, e MongoDB
 
  Acompanhar os treinos com informações de datas e exercícios realizados. Por enquanto somente treinos já realizados.
 
