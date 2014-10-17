@@ -6,3 +6,9 @@
 /Users/Gus/Projects/GestorAcademia/GestorAcademia/bin/Debug/MongoDB.Bson.dll
 /Users/Gus/Projects/GestorAcademia/GestorAcademia/bin/Debug/MongoDB.Driver.dll
 /Users/Gus/Projects/GestorAcademia/GestorAcademia/bin/Debug/Newtonsoft.Json.dll
+/Users/Gus/Projects/GestorAcademia/GestorAcademia/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Gus/Projects/GestorAcademia/GestorAcademia/bin/Debug/Owin.dll
+/Users/Gus/Projects/GestorAcademia/GestorAcademia/bin/Debug/Microsoft.Owin.dll
+/Users/Gus/Projects/GestorAcademia/GestorAcademia/bin/Debug/Microsoft.Owin.Diagnostics.dll
+/Users/Gus/Projects/GestorAcademia/GestorAcademia/bin/Debug/Microsoft.Owin.Hosting.dll
+/Users/Gus/Projects/GestorAcademia/GestorAcademia/bin/Debug/Microsoft.Owin.Host.HttpListener.dll
