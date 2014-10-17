@@ -1,0 +1,8 @@
+/home/leonardo/projects/GestorAcademia/GestorAcademia/obj/x86/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/leonardo/projects/GestorAcademia/GestorAcademia/bin/Release/GestorAcademia.exe.mdb
+/home/leonardo/projects/GestorAcademia/GestorAcademia/bin/Release/GestorAcademia.exe
+/home/leonardo/projects/GestorAcademia/GestorAcademia/obj/x86/Release/GestorAcademia.exe
+/home/leonardo/projects/GestorAcademia/GestorAcademia/obj/x86/Release/GestorAcademia.exe.mdb
+/home/leonardo/projects/GestorAcademia/GestorAcademia/bin/Release/MongoDB.Bson.dll
+/home/leonardo/projects/GestorAcademia/GestorAcademia/bin/Release/MongoDB.Driver.dll
+/home/leonardo/projects/GestorAcademia/GestorAcademia/bin/Release/Newtonsoft.Json.dll

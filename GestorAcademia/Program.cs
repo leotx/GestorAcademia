@@ -8,8 +8,6 @@ namespace GestorAcademia
 {
 	class MainClass
 	{
-	
-
 		public static void Main (string[] args)
 		{
 
@@ -18,8 +16,6 @@ namespace GestorAcademia
 			var db = client.GetServer ().GetDatabase("Gestor");
 
 			var collection = db.GetCollection ("testCollection");
-
-
 
 			var model = new Model {
 				Id = Guid.NewGuid(),
