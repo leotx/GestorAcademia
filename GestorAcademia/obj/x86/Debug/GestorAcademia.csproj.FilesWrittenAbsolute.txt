@@ -1,0 +1,8 @@
+/Users/Gus/Projects/GestorAcademia/GestorAcademia/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/Gus/Projects/GestorAcademia/GestorAcademia/bin/Debug/GestorAcademia.exe.mdb
+/Users/Gus/Projects/GestorAcademia/GestorAcademia/bin/Debug/GestorAcademia.exe
+/Users/Gus/Projects/GestorAcademia/GestorAcademia/obj/x86/Debug/GestorAcademia.exe
+/Users/Gus/Projects/GestorAcademia/GestorAcademia/obj/x86/Debug/GestorAcademia.exe.mdb
+/Users/Gus/Projects/GestorAcademia/GestorAcademia/bin/Debug/MongoDB.Bson.dll
+/Users/Gus/Projects/GestorAcademia/GestorAcademia/bin/Debug/MongoDB.Driver.dll
+/Users/Gus/Projects/GestorAcademia/GestorAcademia/bin/Debug/Newtonsoft.Json.dll
