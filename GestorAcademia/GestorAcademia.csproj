@@ -68,6 +68,7 @@
     <Compile Include="Startup.cs" />
     <Compile Include="Usuario.cs" />
     <Compile Include="UsuarioController.cs" />
+    <Compile Include="UsuarioDto.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>

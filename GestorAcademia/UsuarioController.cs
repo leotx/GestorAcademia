@@ -12,7 +12,9 @@ namespace GestorAcademia
 		public Module ()
 		{
 			Post["/usuario"] = x => {
-				var usuario = Usuario.Create("teste");
+				var usuarioDto = this.Bind<UsuarioDto>();
+
+				var usuario = Usuario.Create(usuarioDto.Nome);
 
 				var client = new MongoClient ();
 				var db = client.GetServer().GetDatabase ("GestorAcademia");
