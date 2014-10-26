@@ -65,9 +65,9 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Model.cs" />
     <Compile Include="Startup.cs" />
-    <Compile Include="Module.cs" />
+    <Compile Include="Usuario.cs" />
+    <Compile Include="UsuarioController.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>

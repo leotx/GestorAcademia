@@ -2,8 +2,26 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="GestorAcademia/Program.cs">
     <Files>
-      <File FileName="GestorAcademia/Program.cs" Line="9" Column="4" />
+      <File FileName="GestorAcademia/Program.cs" Line="12" Column="4" />
+      <File FileName="GestorAcademia/Startup.cs" Line="9" Column="4" />
+      <File FileName="GestorAcademia/Module.cs" Line="14" Column="13" />
+      <File FileName="GestorAcademia/Model.cs" Line="1" Column="1" />
+      <File FileName="GestorAcademia/packages.config" Line="1" Column="1" />
+      <File FileName="GestorAcademia/Usuario.cs" Line="19" Column="2" />
+      <File FileName="GestorAcademia/Properties/AssemblyInfo.cs" Line="1" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="GestorAcademia" expanded="True">
+            <Node name="Program.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
