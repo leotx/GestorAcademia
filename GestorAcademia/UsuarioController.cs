@@ -12,33 +12,29 @@ namespace GestorAcademia
 	{
 		public Module ()
 		{
+			var usuarioRepository = new UsuarioRepository();
+
 			Post["/usuario"] = x => {
 				var usuarioDto = this.Bind<UsuarioDto>();
 
 				var usuario = Usuario.Create(usuarioDto.Nome);
 
-				var client = new MongoClient ();
-				var db = client.GetServer().GetDatabase ("GestorAcademia");
-				var collection = db.GetCollection ("usuario");
-				collection.Save (usuario);
+				usuarioRepository.Save(usuario);
 
 				return new Response
 				{
-					StatusCode = HttpStatusCode.OK
+					StatusCode = HttpStatusCode.Created
 				};
 			};
 
 			Get ["/usuario/{nomeUsuario}"] = x => {
 				string  nomeUsuario = x.nomeUsuario;
 
-				var client = new MongoClient ();
-				var db = client.GetServer().GetDatabase ("GestorAcademia");
-				var collection = db.GetCollection ("usuario");
-				var query = Query<Usuario>.EQ(e => e.Nome, nomeUsuario);
-				var entity = collection.FindOne(query);
+				var usuario = usuarioRepository.FindUsuarioByNome(nomeUsuario);
 
-				return entity;
+				return usuario;
 			};
 		}
+
 	}
 }
